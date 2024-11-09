@@ -1,0 +1,3 @@
+([('mp3organizer',
+   '/Users/a1/Desktop/Coding/python/dist/mp3organizer',
+   'EXECUTABLE')],)
